@@ -13,7 +13,7 @@ setup(
     project_urls={
         "Documentation": "https://www.codeofcoffee.com/2021/04/creating-my-own-python-library-and.html",
     },
-    download_url = 'https://github.com/AdityaChellam/unithash/archive/refs/tags/v_012.tar.gz',
+    download_url = 'https://github.com/AdityaChellam/unithash/archive/refs/tags/v_115.tar.gz',
     keywords = ['HASHING','UNITSUM'],
     install_requires=[],
     setup_requires=['pytest-runner'],
