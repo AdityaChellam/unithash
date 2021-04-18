@@ -6,5 +6,4 @@ unithash/find.py
 unithash.egg-info/PKG-INFO
 unithash.egg-info/SOURCES.txt
 unithash.egg-info/dependency_links.txt
-unithash.egg-info/requires.txt
 unithash.egg-info/top_level.txt
