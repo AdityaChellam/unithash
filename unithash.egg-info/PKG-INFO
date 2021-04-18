@@ -1,10 +1,12 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: unithash
 Version: 0.1.0
 Summary: Find the unit digit hash of a number by recursively calling the sum of all digits in a number till reaching units place
-Home-page: UNKNOWN
+Home-page: https://github.com/AdityaChellam/unithash.git
 Author: Aditya Chellam
 Author-email: UNKNOWN
 License: MIT
+Download-URL: https://github.com/AdityaChellam/unithash/archive/refs/tags/v_010.tar.gz
 Description: UNKNOWN
+Keywords: HASHING,UNITSUM
 Platform: UNKNOWN
