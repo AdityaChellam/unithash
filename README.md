@@ -8,7 +8,9 @@ Given a large number, break up the number into equal length segments. Then apply
 
 # Functions usage
 There are 2 major functions defined in this library -
+           
             + find.get_unithash (arg1: integer)
+           
             + find.set_unithash (arg1: string, arg2: integer)
 
 The first function is used to get the unit sum value of a given number. It expects only 1 argument of type integer as input, which would be the number for which we wish to calculate the unit sum.
