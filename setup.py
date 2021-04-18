@@ -5,6 +5,8 @@ setup(
     packages=find_packages(include=['unithash']),
     version='0.1.0',
     description='Find the unit digit hash of a number by recursively calling the sum of all digits in a number till reaching units place',
+    long_description='This is the long description',
+    long_description_content_type="text/markdown",
     author='Aditya Chellam',
     license='MIT',
     url = 'https://github.com/AdityaChellam/unithash',
