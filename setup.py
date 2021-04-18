@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='unithash',
     packages=find_packages(include=['unithash']),
-    version='0.1.0',
+    version='0.1.1',
     description='Find the unit digit hash of a number by recursively calling the sum of all digits in a number till reaching units place',
     long_description='This is the long description',
     long_description_content_type="text/markdown",
