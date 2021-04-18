@@ -10,7 +10,7 @@ setup(
     author='Aditya Chellam',
     license='MIT',
     url = 'https://github.com/AdityaChellam/unithash',
-    download_url = 'https://github.com/AdityaChellam/unithash/archive/refs/tags/v_010.tar.gz',
+    download_url = 'https://github.com/AdityaChellam/unithash/archive/refs/tags/v_011.tar.gz',
     keywords = ['HASHING','UNITSUM'],
     install_requires=[],
     setup_requires=['pytest-runner'],
