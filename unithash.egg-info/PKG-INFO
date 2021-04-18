@@ -1,12 +1,18 @@
 Metadata-Version: 2.1
 Name: unithash
-Version: 0.1.1
-Summary: Find the unit digit hash of a number by recursively calling the sum of all digits in a number till reaching units place
+Version: 0.1.2
+Summary: Hashing Algorithm | Python
 Home-page: https://github.com/AdityaChellam/unithash
 Author: Aditya Chellam
 License: MIT
-Download-URL: https://github.com/AdityaChellam/unithash/archive/refs/tags/v_011.tar.gz
-Description: This is the long description
+Download-URL: https://github.com/AdityaChellam/unithash/archive/refs/tags/v_012.tar.gz
+Project-URL: Documentation, https://www.codeofcoffee.com/2021/04/creating-my-own-python-library-and.html
+Description: Compute the unit hash digest of a string by segmenting the string into blocks of a specified size and recursively computing the sum of all digits in each block.
+        In order to use this hashing algorithm in your code, do a pip install for the library.
+        
+        	pip install unithash
+        
+        Additional 
 Keywords: HASHING,UNITSUM
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
